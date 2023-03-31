@@ -15,5 +15,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 <br>
 <p align="center">
-  <img width="700" alt="preview" src="imagem/folhadepagamento.png" width="100%">
+  <img width="700" alt="preview" src="imagem/folha de pagamento.png" width="100%">
 </p>
